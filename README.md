@@ -1,2 +1,2 @@
-# Colab_sample
+# python_basic
 Python基礎から各モジュールを用いる部分までのサンプルコード集、基礎など
