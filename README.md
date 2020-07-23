@@ -1,3 +1,3 @@
-# python_basic
+# Colab_sample
 Python基礎から各モジュールを用いる部分までのサンプルコード集、基礎など
 数学の基礎に関してもこのレポジトリにUpdateする
